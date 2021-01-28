@@ -1,5 +1,7 @@
 # HomopRemover
 
+PROGRAM SOURCE CODE INCLUDED IN ADAPTI
+
 HomopRemover is a program designed to efficiently remove sequences containing too long homopolymers
 This program can use usearch tags ;size= to prevent deletion of non-rare sequences containing too long homopolymer (see program command line help)
 
